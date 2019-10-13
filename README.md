@@ -7,7 +7,7 @@ You can then access Spriing Boot Application here: http://localhost:8080/
  
 ## Working with Spring Boot JPA Crud RestApi
 
-### prerequisites
+### Prerequisites
 The following items should be installed in your system:
 * Eclipse - Spring Tool Suite or Mars
 * Server - Wildfly
