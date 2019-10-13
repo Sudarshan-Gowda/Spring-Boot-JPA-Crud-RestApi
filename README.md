@@ -14,14 +14,9 @@ The following items should be installed in your system:
 
 ### Technology Used:     
   Java 8                                                                                                                                
-  Spring MVC                                                                                                                             
+  Spring Boot                                                                                                                           
   JPA & Hibernate                                                                                                                       
-  Spring- security                                                                                                                                                                                                                                                          
-  Quartz Scheduler                                                                                                                    
-  Java Mail                                                                                                                           
-  Thymeleaf
-  Log4j  
- 
+                                                                                                                           
  
 ### Steps to Clone The Repository Application:
 
