@@ -42,8 +42,8 @@ File -> Import -> Maven -> Existing Maven project -> Spring-Boot-JPA-Crud-RestAp
 ## Steps to test the application:
 
 ### To Run the Spring MVC Application:
-`step 1`: Dowmload this repository & do maven import.         
-`step 2`: Go to the main class file and run as Java application. 
+`step 1`: Dowmload this repository & do maven import.    <br>     
+`step 2`: Go to the main class file and run as Java application. <br>
 `step 3`: Once the application is successfully started, It can be accessed by using url `http://localhost:8080`
 
 # Contributing
