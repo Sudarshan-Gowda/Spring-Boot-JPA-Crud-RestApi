@@ -36,7 +36,7 @@ File -> Import -> Maven -> Existing Maven project -> Spring-Boot-JPA-Crud-RestAp
 |--------------------------|---|
 |The Main Controller Page | [EmployeeController](https://github.com/Sudarshan-Gowda/Spring-Boot-JPA-Crud-RestApi/blob/master/src/main/java/com/star/sud/SpringBootJPACrudRestApi/controller/EmployeeController.java) |
 |The Main Class | [SpringBootJpaCrudRestApiApplication.java](https://github.com/Sudarshan-Gowda/Spring-Boot-JPA-Crud-RestApi/blob/master/src/main/java/com/star/sud/SpringBootJPACrudRestApi/SpringBootJpaCrudRestApiApplication.java) |
-|Properties Files [application.properties](https://github.com/Sudarshan-Gowda/Spring-Boot-JPA-Crud-RestApi/blob/master/src/main/resources/application.properties) |
+|Properties Files | [application.properties](https://github.com/Sudarshan-Gowda/Spring-Boot-JPA-Crud-RestApi/blob/master/src/main/resources/application.properties) |
 
 
 ## Steps to test the application:
